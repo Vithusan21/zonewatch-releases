@@ -46,3 +46,17 @@ any dual-core CPU from the last 10 years.
 **Free version included** — 1 camera, 3 zones, all features. The Personal
 license (one-time payment, no subscription, ever) unlocks unlimited cameras
 and zones. 
+
+
+## Licensing
+
+Community Edition
+- 1 camera
+- 3 zones
+
+Personal License
+- Unlimited cameras
+- Unlimited zones
+
+Purchase:
+https://boredcreator.gumroad.com/l/zonewatch
